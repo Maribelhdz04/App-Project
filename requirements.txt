@@ -5,8 +5,8 @@ attrs==23.1.0
 blinker
 charset-normalizer==3.3.2
 click==8.1.7
-discord==2.3.2
-discord.py==2.3.2
+discord
+discord.py
 Flask
 frozenlist==1.4.0
 gunicorn==21.2.0
